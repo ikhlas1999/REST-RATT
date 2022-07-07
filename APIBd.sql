@@ -1,4 +1,5 @@
 create database APIBd;
+use APIBd;
 
 CREATE TABLE Personne (
     id int NOT NULL AUTO_INCREMENT,
