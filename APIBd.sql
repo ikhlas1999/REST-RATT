@@ -1,5 +1,5 @@
 create database APIBd;
-USE personneDB;
+
 CREATE TABLE Personne (
     id int NOT NULL AUTO_INCREMENT,
     cin varchar(255) NOT NULL,
